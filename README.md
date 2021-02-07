@@ -1,3 +1,7 @@
+**Repository Moved**
+
+This repository has moved to [tseward/SharePoint-Patch-Script](https://github.com/tseward/SharePoint-Patch-Script).
+
 # SharePoint Patch Script
 
 An updated version of Russ Maxwell's "5 hour" SharePoint Patch Script supporting SharePoint 2013, SharePoint 2016, and SharePoint 2019. Original created for SharePoint 2013 by Russ Maxwell, this script has been updated with a few new features:
